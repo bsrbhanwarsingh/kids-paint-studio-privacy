@@ -69,9 +69,9 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have any questions about this privacy policy, please contact us at:
 
-**Email:** [YOUR_EMAIL_HERE]
+**Email:** [BsrBhanwarsingh@gmail.com]
 
-**Developer:** [YOUR_NAME/COMPANY_NAME]
+**Developer:** [Bhanwar Singh Rathore]
 
 ---
 
